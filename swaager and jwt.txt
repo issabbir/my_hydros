@@ -1,0 +1,33 @@
+
+--SWAGGER
+
+composer require "darkaonline/l5-swagger:6.*"
+composer require "zircote/swagger-php:3.*"
+
+add config/app.php
+
+L5Swagger\L5SwaggerServiceProvider::class,
+
+php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"
+
+php artisan l5-swagger:generate
+https://www.phparticles.com/laravel/how-to-use-darkaonline-l5-swagger-in-laravel/
+
+and parameter
+
+https://medium.com/@ivankolodiy/how-to-write-swagger-documentation-for-laravel-api-tips-examples-5510fb392a94
+
+
+--JWT
+composer require tymon/jwt-auth
+https://medium.com/mesan-digital/tutorial-5-how-to-build-a-laravel-5-4-jwt-authentication-api-with-e-mail-verification-61d3f356f823
+
+
+
+--Dashboard conent
+[10:32 AM, 9/1/2020] Cns Ahsan Habib: 1. Total Employee 2. Total Cusotmer, 3. Total Purchase Request
+[10:33 AM, 9/1/2020] Cns Ahsan Habib: 4. Total Working Boat
+[10:33 AM, 9/1/2020] Cns Ahsan Habib: egula hote pare...
+[10:34 AM, 9/1/2020] Cns Ahsan Habib: Dashboard a emon kisu thakbe jeno apps a login korei tar daily business ta at a glance dekhte pare..
+[10:36 AM, 9/1/2020] Cns Ahsan Habib: 5. Total sell thakte pare
+[10:36 AM, 9/1/2020] Cns Ahsan Habib: amar mathay egulai kaj korlo...

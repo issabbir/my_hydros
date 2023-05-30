@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b977d23-a3cb-4116-9c51-1daf48055bc9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/cache/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/js/scripts/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/scripts/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/logs/laravel.log" beforeDir="false" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor" beforeDir="true" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="http://localhost/" id="0e52384c-c84e-491d-a616-22f686c3cd94" name="xampp" />
+      <server host="127.0.0.1" id="9736bb92-0d73-4902-a794-f5ae58e8cb93" name="127.0.0.1" port="8000" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/xampp/htdocs/cpa_fas" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/mews/captcha" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/hashids/hashids" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/julfiker/laravel-single-auth" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/vendor/darryldecode/cart" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/php-parallel-lint/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/php-parallel-lint/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-fractal" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-html" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/league/fractal" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-pdo-via-oci8" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-editor" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-oci8" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-buttons" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1fM8ukLt0Keqd6C0tHq63zbmUAV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PHP\xampp\htdocs\blog\resources\views\schedule" />
+      <recent name="E:\PHP\xampp\htdocs\blog\resources\views\schedule\partial" />
+      <recent name="E:\PHP\xampp\htdocs\blog\app\Http\Controllers\Schedule" />
+      <recent name="E:\PHP\xampp\htdocs\blog\app\Entities\Schedule" />
+      <recent name="E:\PHP\xampp\htdocs\blog\public\assets\wickedpicker\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\cpa_hydros\resources\views\schedule" />
+      <recent name="C:\xampp\htdocs\cpa_hydros\app\Http\Controllers\Schedule" />
+      <recent name="C:\xampp\htdocs\blog\resources\views" />
+      <recent name="E:\PHP\xampp\htdocs\blog\resources\views\emails" />
+      <recent name="E:\PHP\xampp\htdocs\blog\app\Enums" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Remote Debug.Unnamed">
+    <configuration name="team-employee-index.blade.php" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/blog/resources/views/setup/team-employee-index.blade.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" nameIsGenerated="true" filter_connections="FILTER" server_name="xampp" session_id="DELL">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.team-employee-index.blade.php" />
+      <item itemvalue="PHP Remote Debug.Unnamed" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\DELL-PC\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\xampp\htdocs\cpa_hydros" />
+          <option name="myCopyRoot" value="C:\xampp\htdocs\cpa_hydros" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\xampp\htdocs\cpa_hydros" />
+          <option name="myCopyRoot" value="C:\xampp\htdocs\cpa_hydros" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b977d23-a3cb-4116-9c51-1daf48055bc9" name="Default Changelist" comment="" />
+      <created>1596016825302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596016825302</updated>
+      <workItem from="1596016846768" duration="12751000" />
+      <workItem from="1596084987349" duration="12898000" />
+      <workItem from="1596375839333" duration="805000" />
+      <workItem from="1596376888108" duration="457000" />
+      <workItem from="1596424904466" duration="617000" />
+      <workItem from="1596431357883" duration="17109000" />
+      <workItem from="1596458157403" duration="7774000" />
+      <workItem from="1596469875473" duration="19133000" />
+      <workItem from="1596508189013" duration="22883000" />
+      <workItem from="1596601368793" duration="7988000" />
+      <workItem from="1675833161068" duration="2938000" />
+      <workItem from="1675837575778" duration="11682000" />
+      <workItem from="1675912013294" duration="8079000" />
+      <workItem from="1675923813395" duration="802000" />
+      <workItem from="1676259121212" duration="1335000" />
+      <workItem from="1676264590070" duration="1149000" />
+      <workItem from="1676274795646" duration="715000" />
+      <workItem from="1676365769847" duration="3831000" />
+      <workItem from="1676442799893" duration="1116000" />
+      <workItem from="1676521644922" duration="438000" />
+      <workItem from="1676785513849" duration="668000" />
+      <workItem from="1676861951214" duration="627000" />
+      <workItem from="1677135313276" duration="1310000" />
+      <workItem from="1677139112404" duration="20000" />
+      <workItem from="1677406031736" duration="456000" />
+      <workItem from="1677409048649" duration="657000" />
+    </task>
+    <task id="LOCAL-00069" summary="notificaton dependecy added">
+      <created>1596480803653</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1596480803653</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Some bug fixed">
+      <created>1596480830542</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1596480830542</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Some route added">
+      <created>1596480849947</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1596480849947</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Only hydrography project added">
+      <created>1596481568260</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1596481568260</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Side bar fixed">
+      <created>1596481592962</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1596481592962</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Selling product list">
+      <created>1596482427217</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1596482427217</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Selling product upDATED">
+      <created>1596482567743</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1596482567743</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Zone area index updated">
+      <created>1596483272473</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1596483272473</updated>
+    </task>
+    <task id="LOCAL-00077" summary="login bug fixed">
+      <created>1596484590500</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1596484590531</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Customer approval fixed">
+      <created>1596489352659</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1596489352659</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Customer approval fixed">
+      <created>1596489614048</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1596489614048</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Product pending approval added">
+      <created>1596509162821</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1596509162831</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Selling approve request fixed">
+      <created>1596510078125</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1596510078125</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Selling appove request fixed">
+      <created>1596510106366</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1596510106366</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Bkash controller added">
+      <created>1596511151865</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1596511151865</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Selling request details added">
+      <created>1596511970241</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1596511970251</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Selling request added">
+      <created>1596512133695</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1596512133695</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Selling request added">
+      <created>1596513353061</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1596513353061</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Selling request added">
+      <created>1596513359771</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1596513359771</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Selling request added">
+      <created>1596513371661</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1596513371661</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Product dwonload completed">
+      <created>1596513457149</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1596513457149</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Product dwonload completed">
+      <created>1596514050550</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1596514050565</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Product upload completed">
+      <created>1596517900321</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1596517900331</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Product upload completed">
+      <created>1596517921540</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1596517921540</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Product upload completed">
+      <created>1596517935959</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1596517935959</updated>
+    </task>
+    <task id="LOCAL-00094" summary="File Details added">
+      <created>1596519058416</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519058416</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Product upload done">
+      <created>1596519079883</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519079883</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Product upload done">
+      <created>1596519503490</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519503490</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Product upload done">
+      <created>1596519512724</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519512724</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Product upload done">
+      <created>1596519529011</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1596519529011</updated>
+    </task>
+    <task id="LOCAL-00099" summary="File upload completed">
+      <created>1596520757764</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1596520757764</updated>
+    </task>
+    <task id="LOCAL-00100" summary="File download completed">
+      <created>1596521808343</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1596521808343</updated>
+    </task>
+    <task id="LOCAL-00101" summary="file download complted">
+      <created>1596521829222</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1596521829222</updated>
+    </task>
+    <task id="LOCAL-00102" summary="File upload completed">
+      <created>1596521873069</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1596521873069</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Customer name added">
+      <created>1596522806283</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1596522806283</updated>
+    </task>
+    <task id="LOCAL-00104" summary="File download complete">
+      <created>1596526119513</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1596526119513</updated>
+    </task>
+    <task id="LOCAL-00105" summary="File upload complete">
+      <created>1596526136626</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1596526136626</updated>
+    </task>
+    <task id="LOCAL-00106" summary="File download complete">
+      <created>1596526157615</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1596526157615</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Product upload download complete">
+      <created>1596527034401</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1596527034401</updated>
+    </task>
+    <task id="LOCAL-00108" summary="File upload completed">
+      <created>1596527053530</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1596527053530</updated>
+    </task>
+    <task id="LOCAL-00109" summary="File upload completed">
+      <created>1596527067839</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1596527067839</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Data tabel added">
+      <created>1596528209468</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1596528209468</updated>
+    </task>
+    <task id="LOCAL-00111" summary="pass paramter to datatable">
+      <created>1596528446783</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1596528446783</updated>
+    </task>
+    <task id="LOCAL-00112" summary="not completed .. yest to be solved">
+      <created>1596529548602</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1596529548602</updated>
+    </task>
+    <task id="LOCAL-00113" summary="File upload completed">
+      <created>1596529580580</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1596529580580</updated>
+    </task>
+    <task id="LOCAL-00114" summary="File upload completed">
+      <created>1596529909085</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1596529909085</updated>
+    </task>
+    <task id="LOCAL-00115">
+      <created>1675837314966</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1675837314967</updated>
+    </task>
+    <task id="LOCAL-00116">
+      <created>1675845352906</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1675845352906</updated>
+    </task>
+    <task id="LOCAL-00117">
+      <created>1675921793975</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1675921793975</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="DuTY roaster completed" />
+    <MESSAGE value="Schdule summary added successfully" />
+    <MESSAGE value="JWT token added" />
+    <MESSAGE value="Swagger added" />
+    <MESSAGE value="Schedule controller added" />
+    <MESSAGE value="team index added sucessfully" />
+    <MESSAGE value="Authentication complete" />
+    <MESSAGE value="File search added" />
+    <MESSAGE value="File seacrch completed" />
+    <MESSAGE value="Survey setup completed" />
+    <MESSAGE value="File downlaod added" />
+    <MESSAGE value="Updated" />
+    <MESSAGE value="Team mobile number added" />
+    <MESSAGE value="Schedule fixed" />
+    <MESSAGE value="Schedule approval fixed" />
+    <MESSAGE value="Report added" />
+    <MESSAGE value="Disabled city bank payment for not testing" />
+    <MESSAGE value="Forget password added" />
+    <MESSAGE value="Team bug fixed" />
+    <MESSAGE value="Fixed" />
+    <MESSAGE value="File upload completed" />
+    <MESSAGE value="Updated with lastest update" />
+    <MESSAGE value="Api fixed" />
+    <MESSAGE value="Schedule plan" />
+    <MESSAGE value="Fixed with some update and bug fixed in blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="0" key="CommitChangelistDialog2" timestamp="1675921793302">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="-1335" y="237" key="CommitChangelistDialog2/0.0.1536.816/-1920.135.1920.1032@-1920.135.1920.1032" timestamp="1675845680690" />
+    <state x="468" y="0" key="CommitChangelistDialog2/0.0.1536.816/-1920.135.1920.1032@0.0.1536.816" timestamp="1675921793302" />
+    <state x="592" y="213" key="FileChooserDialogImpl" timestamp="1677139130741">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="-1180" y="405" key="FileChooserDialogImpl/0.0.1536.816/-1920.135.1920.1032@-1920.135.1920.1032" timestamp="1675834618101" />
+    <state x="592" y="213" key="FileChooserDialogImpl/0.0.1536.816/-1920.135.1920.1032@0.0.1536.816" timestamp="1677139130741" />
+    <state x="477" y="141" width="581" height="534" key="find.popup" timestamp="1677139122440">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="477" y="141" width="581" height="534" key="find.popup/0.0.1536.816/-1920.135.1920.1032@0.0.1536.816" timestamp="1677139122440" />
+    <state x="493" y="134" width="670" height="535" key="search.everywhere.popup" timestamp="1676367161722">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="-1304" y="304" width="670" height="676" key="search.everywhere.popup/0.0.1536.816/-1920.135.1920.1032@-1920.135.1920.1032" timestamp="1675845990412" />
+    <state x="493" y="134" width="670" height="535" key="search.everywhere.popup/0.0.1536.816/-1920.135.1920.1032@0.0.1536.816" timestamp="1676367161722" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/setup/team-employee-index.blade.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/External/VerifyController.php</url>
+          <line>170</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/External/VerifyController.php</url>
+          <line>172</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Api/UserController.php</url>
+          <line>53</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/file/archive-search-index.blade.php</url>
+          <line>145</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Schedule/SurveyController.php</url>
+          <line>121</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Setup/ProductController.php</url>
+          <line>100</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Setup/TeamEmployeeController.php</url>
+          <line>86</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/schedule/boat-employee-index.blade.php</url>
+          <line>444</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/External/ExternalRegistrationController.php</url>
+          <line>41</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/External/ExternalRegistrationController.php</url>
+          <line>71</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Payment/BkashController.php</url>
+          <line>41</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/Schedule/DutyRosterApprovalController.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
